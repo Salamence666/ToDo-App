@@ -1,0 +1,12 @@
+h3 {
+  margin-top: 0;
+  display: inline-block;
+}
+
+.EachItem {
+  width: 500px;
+}
+
+.del {
+  float: right;
+}
